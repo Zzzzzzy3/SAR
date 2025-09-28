@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/baseline.md",
+                "file": "项目/yolov8_OBB v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baseline"
+              "title": "yolov8_OBB v1"
             }
           }
         ],
@@ -212,8 +212,10 @@
   },
   "active": "fe051174149f88cd",
   "lastOpenFiles": [
-    "项目/yolov8_OBB v1.md",
+    "项目/mmrotate 9.27/安装mmrotate.md",
     "未命名/baseline.md",
+    "项目/mmrotate 9.27",
+    "项目/yolov8_OBB v1.md",
     "Pasted image 20250921103438.png",
     "Excalidraw/Drawing 2025-09-16 09.48.31.excalidraw.md",
     "DATA1.0.md",
